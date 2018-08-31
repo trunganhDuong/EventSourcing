@@ -1,0 +1,10 @@
+C:\Users\Administrator\source\repos\EventSourcing\EventSourcing\obj\Debug\netcoreapp2.1\EventSourcing.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\EventSourcing\EventSourcing\obj\Debug\netcoreapp2.1\EventSourcing.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\EventSourcing\EventSourcing\obj\Debug\netcoreapp2.1\EventSourcing.AssemblyInfo.cs
+c:\users\administrator\source\repos\EventSourcing\EventSourcing\bin\Debug\netcoreapp2.1\EventSourcing.deps.json
+c:\users\administrator\source\repos\EventSourcing\EventSourcing\bin\Debug\netcoreapp2.1\EventSourcing.runtimeconfig.json
+c:\users\administrator\source\repos\EventSourcing\EventSourcing\bin\Debug\netcoreapp2.1\EventSourcing.runtimeconfig.dev.json
+c:\users\administrator\source\repos\EventSourcing\EventSourcing\bin\Debug\netcoreapp2.1\EventSourcing.dll
+c:\users\administrator\source\repos\EventSourcing\EventSourcing\bin\Debug\netcoreapp2.1\EventSourcing.pdb
+c:\users\administrator\source\repos\EventSourcing\EventSourcing\obj\Debug\netcoreapp2.1\EventSourcing.dll
+c:\users\administrator\source\repos\EventSourcing\EventSourcing\obj\Debug\netcoreapp2.1\EventSourcing.pdb
